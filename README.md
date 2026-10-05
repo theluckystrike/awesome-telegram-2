@@ -17,6 +17,7 @@
   - 一个bot可以对应多个app
 * 唯一链接 
   - 一个bot可以对应多个app
+- [TinyTelegramTools](https://tg.zovo.one) – 免费 Telegram 小程序工具集:记账分摊、倒计时、习惯打卡、计时器、提醒、投票,每项附公共教程库。
 
 # Telegram Games
 * 输入 `/newgame ` 创建第一个 Games
